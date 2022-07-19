@@ -1,6 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Poppins&family=Roboto&display=swap');
 
 /* Style the form element with a border around it */
+html {
+    overflow: hidden;
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    overflow: auto;
+}
+
 form {
     border-top: 2px solid #ffa101;
     border-bottom: 2px solid #ffa101;
