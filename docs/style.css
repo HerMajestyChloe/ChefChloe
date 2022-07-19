@@ -298,7 +298,7 @@ a{
  
 /* ------- Navigation Menu ---------- */
 .navbar{
-    position: relative;
+    position: relative !important;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
