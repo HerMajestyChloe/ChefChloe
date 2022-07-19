@@ -2,13 +2,13 @@
 
 /* Style the form element with a border around it */
 html {
-    overflow: hidden;
+    
     height: 100%;
 }
 
 body {
     height: 100%;
-    overflow: auto;
+    
 }
 
 form {
